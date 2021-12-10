@@ -61,6 +61,6 @@ email: ""
 highlight_name: true
 ---
 
-I am currently a senior student at Nanjing University majoring in Computer Science. I am going to pursue a Ph.D. degree at Shanghai Jiao Tong University in 2022 fall, under the supervision of Prof. Kai Yu.
+I am currently a senior student at Nanjing University majoring in Computer Science. I am expecting to pursue a Ph.D. degree at Shanghai Jiao Tong University in 2022 fall, under the supervision of Prof. Kai Yu.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
